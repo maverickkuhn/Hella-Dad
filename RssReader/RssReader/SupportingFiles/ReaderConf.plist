@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Theme</key>
+	<string>dark</string>
+	<key>DropdownMenu</key>
+	<true/>
+	<key>HomeScreenAdsEnabled</key>
+	<false/>
+	<key>DetailViewAdsEnabled</key>
+	<false/>
+	<key>DefaultBarFont</key>
+	<string>Raleway</string>
+	<key>DefaultCellFont</key>
+	<string>default</string>
+	<key>DisplayMode</key>
+	<string>Image</string>
+	<key>Feeds</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Hella Dad</string>
+			<key>url</key>
+			<string>https://helladad.com/?feed=rss2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hip hop Heads</string>
+			<key>url</key>
+			<string>https://helladad.com/category/hiphopheads/feed/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Today in...</string>
+			<key>url</key>
+			<string>https://helladad.com/category/todayin/feed/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sports Fever</string>
+			<key>url</key>
+			<string>https://helladad.com/category/sportsfever/feed/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Food Battles</string>
+			<key>url</key>
+			<string>https://helladad.com/category/foodbattles/feed/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Movies &amp; TV Time</string>
+			<key>url</key>
+			<string>https://helladad.com/category/mtt/feed/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shop</string>
+			<key>url</key>
+			<string>https://helladad.com/shop/feed/</string>
+		</dict>
+	</array>
+</dict>
+</plist>
